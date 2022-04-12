@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Email Demo</string>
+    <string name="favorite_button">Botão Favorito</string>
+    <string name="user_image">Imagem Usuário</string>
+</resources>
